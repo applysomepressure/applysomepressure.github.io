@@ -1,9 +1,9 @@
 # applysomepressure.github.io
 
-<a href="how_left.html">Page 2</a>
 
 
-[How left-wing is the Labour Party under Jeremy Corbyn](how_left.html)
+
+<!--[How left-wing is the Labour Party under Jeremy Corbyn](how_left.html)-->
 
 23rd July 2019
 
