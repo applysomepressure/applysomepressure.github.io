@@ -1,5 +1,7 @@
 # applysomepressure.github.io
 
+<a href="how_left.html">Page 2</a>
+
 23rd July 2019
 
 ...and here we go. We haven't even heard which of the two candidates are going
