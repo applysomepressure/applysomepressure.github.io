@@ -5,6 +5,14 @@
 
 <!--[How left-wing is the Labour Party under Jeremy Corbyn](how_left.html)-->
 
+25th July 2019
+## Select highlights of Jo Swinson's voting record:
+
+### All sourced from Swinson's "They Work For You"](https://www.theyworkforyou.com/mp/11971/jo_swinson/east_dunbartonshire/votes) profile
+
+####["Generally voted against replacing Trident with a new nuclear weapons system"](https://www.theyworkforyou.com/mp/11971/jo_swinson/east_dunbartonshire/divisions?policy=984)
+
+
 23rd July 2019
 
 ...and here we go. We haven't even heard which of the two candidates are going
