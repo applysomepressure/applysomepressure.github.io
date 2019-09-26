@@ -1,18 +1,18 @@
 # applysomepressure.github.io
 
 <!--[Some wafflery regarding EU referenda from the Tory 2015 manifesto]-->
-### The Conservatives' plan for an EU referendum outlined in their 2015 manifesto
+The Conservatives' plan for an EU referendum outlined in their 2015 manifesto
 contains the same "issues" which the current government now claim are so ridiculous
 regarding the current Labour party policy.
 To quote:
 
-#### "That's why, after the election, we will negotiate a new settlement for Britain
+"That's why, after the election, we will negotiate a new settlement for Britain
 in Europe, and then ask the British people whether they want to stay in the EU on
 this reformed basis or leave. David Cameron has committed that he will only lead a
 government that offers an in-out referendum. We will hold that in-out referendum
 before the end of 2017 and respect the outcome.
 
-#### "We will negotiate a new settlement for Britain in the EU. And then we will
+"We will negotiate a new settlement for Britain in the EU. And then we will
 ask the British people whethery they want to stay in on this basis, or leave. We
 will homour the result of the referendum, whatever the outcome".
 
